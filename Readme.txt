@@ -1,0 +1,1 @@
+Das Video Tessellation_Effekt.mp4 veranschaulicht den Effekt der Tessellation auf die Geometrie des Objektes.
